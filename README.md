@@ -1,1 +1,1 @@
-React diliyle yapmış olduğım basit düzeyde yapılacaklar listesi uygulaması
+React diliyle yapmış olduğum basit düzeyde yapılacaklar listesi uygulaması
